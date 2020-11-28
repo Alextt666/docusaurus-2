@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Welcome to my site',
-  tagline: 'Hi,there! I"m Alex Zhang! Have a good time! ',
+  title: 'Welcome to my site!',
+  tagline: 'Hi,there! I am Alex Zhang! Have a good time! ',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/orangemao.png.icon.ico',
