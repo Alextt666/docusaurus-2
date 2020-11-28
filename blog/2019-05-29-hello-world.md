@@ -1,6 +1,6 @@
 ---
-id: hello-world-Tian
-title: Hello
+id: ExampleDemo
+title: Example for Docusaurus
 author: Endilie Yacop Sucipto
 author_title: Maintainer of Docusaurus
 author_url: https://github.com/endiliey
